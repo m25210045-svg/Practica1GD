@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Sistema de Lotka-Volterra
+message: 'Práctica 1: Sistema de Lotka-Volterra'
+type: software
+authors:
+  - given-names: Vincent Alejandro
+    family-names: Villela Salinas
+    email: M25240045@tectijuana.edu.mx
+    affiliation: Tecnológico Nacional de México
+repository-code: 'https://github.com/m25210045-svg/Practica1GD'
+keywords:
+  - Sistema presa-depredador
+  - Método de Euler
+  - Método de Heun
+  - Puntos de equilibrio
+  - Estabilidad asintótica
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-02-18'
