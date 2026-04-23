@@ -3,12 +3,12 @@
 
 # Práctica 1: Sistema de Lotka-Volterra
 
-## Información de la estudiante
+## Información del estudiante
 Vincent Alejandro Villela Salinas \[M25210045]; M25210045@tectijuana.edu.mx
 
 Gemelos Digitales
 
-Ingeniería Biomédica
+Sistemas dinámicos y control
 
 ## Docente
 Dr. Paul Antonio Valle Trujillo; paul.valle@tectijuana.edu.mx
